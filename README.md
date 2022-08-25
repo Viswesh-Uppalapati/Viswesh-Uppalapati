@@ -1,14 +1,14 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi there! I'm Viswesh</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Viswesh -->
+<!-- ## 👋 &nbsp;Hi there! I'm Viswesh -->
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/50200188/186547620-a3f53ea3-02c1-41e2-bb01-86c5d7155b1a.jpg" align="right" width="200"/>
+<img alt="Me" src="https://user-images.githubusercontent.com/50200188/186547620-a3f53ea3-02c1-41e2-bb01-86c5d7155b1a.jpg" align="right" width="200"/>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🎓 &nbsp;I graduated June 2022 with a degree in Data Science with a focus in Machine Learning and a Minor in Mathematics from the University of California, San Diego.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -17,7 +17,7 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Technical Skills and Software
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
