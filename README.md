@@ -20,7 +20,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB&logoColor=276DC3)\
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=276DC3)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=276DC3)
-![scikit-learn]![Pandas](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=276DC3)
+![scikit-learn]![Pandas](https://img.shields.io/badge/-scikit-learn-05122A?style=flat&logo=scikit-learn&logoColor=276DC3)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=276DC3)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
