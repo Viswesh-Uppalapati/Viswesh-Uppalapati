@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Viswesh</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi there! I'm Viswesh</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Viswesh -->
 
@@ -45,5 +45,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/viswesh-uppalapati/"><img src="https://img.shields.io/badge/-Viswesh%20Uppalapati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/viswesh-uppalapati/"><img src="https://img.shields.io/badge/-Viswesh%20Uppalapati-0077B5?style=flat&logo=Linkedin&logoColor=white" align = "left"/></a>
 <a href="mailto:uppalapati.viswesh368@gmail.com"><img src="https://img.shields.io/badge/-uppalapati.viswesh368@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
