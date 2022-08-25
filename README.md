@@ -48,3 +48,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/viswesh-uppalapati/"><img src="https://img.shields.io/badge/-Viswesh%20Uppalapati-0077B5?style=flat&logo=Linkedin&logoColor=white" align = "left"/></a>
 <a href="mailto:uppalapati.viswesh368@gmail.com"><img src="https://img.shields.io/badge/-uppalapati.viswesh368@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" align="left"/></a>
+<a href="mailto:uppalapati.viswesh368@gmail.com"><img src="https://img.shields.io/badge/-uppalapati.viswesh368@gmail.com-D14836?style=flat&logo=Phone&logoColor=white" align="left"/></a>
