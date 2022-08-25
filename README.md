@@ -4,15 +4,12 @@
 
 <img alt="Me" src="https://user-images.githubusercontent.com/50200188/186547620-a3f53ea3-02c1-41e2-bb01-86c5d7155b1a.jpg" align="right" width="200"/>
 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Graduated June 2022 with a B.S in Data Science with a focus in Machine Learning and a Minor in Mathematics from the University of California, San Diego.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
