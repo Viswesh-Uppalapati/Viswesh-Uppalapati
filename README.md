@@ -2,7 +2,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Viswesh -->
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/50200188/186546821-f7485d81-767c-41c4-81bb-afa3ffacb6c9.jpg" align="center" width="200"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/50200188/186547620-a3f53ea3-02c1-41e2-bb01-86c5d7155b1a.jpg" align="right" width="200"/>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
