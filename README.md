@@ -21,7 +21,9 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy&logoColor=276DC3)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=276DC3)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=276DC3)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=276DC3)\
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy&logoColor=276DC3)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=276DC3)
+![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat&logo=NLTK&logoColor=276DC3)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
