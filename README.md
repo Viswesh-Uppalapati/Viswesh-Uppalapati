@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Graduated June 2022 with a B.S in Data Science with a focus in Machine Learning and a Minor in Mathematics from the University of California, San Diego.\
+🎓 &nbsp;Graduated June 2022 with a B.S in Data Science with a focus in Machine Learning and a Minor in          Mathematics from the University of California, San Diego.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
