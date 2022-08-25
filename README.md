@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I work on innovative research projects and advance my coding skills by learning new software. \
-🎓 &nbsp; B.S in Data Science w/ a focus in Machine Learning and a Minor in Mathematics from UC, San Diego.\
+🎓 &nbsp; B.S in Data Science w/ a focus in ML/AI and a Minor in Mathematics from UC, San Diego.\
 🌱 &nbsp; In my free time, I love to Dance and enjoy nature.
 
 ### 🛠 &nbsp;Technical Skills and Software
