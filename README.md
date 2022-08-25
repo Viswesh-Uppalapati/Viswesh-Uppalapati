@@ -6,12 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to recreate research projects and come up with innovative extensions for new research possibilites
-🎓 &nbsp;Graduated June 2022 with a B.S in Data Science with a focus in Machine Learning and a Minor in          Mathematics from the University of California, San Diego.\
-🌱 &nbsp;In my free time, I love to Dance and enjoy nature.\
-
-
-
+💡 &nbsp; I like to recreate research projects and come up with innovative extensions for new research possibilites \
+🎓 &nbsp;Graduated June 2022 with a B.S in Data Science with a focus in Machine Learning and a Minor in Mathematics from the University of California, San Diego.\
+🌱 &nbsp;In my free time, I love to Dance and enjoy nature.
 
 ### 🛠 &nbsp;Technical Skills and Software
 
