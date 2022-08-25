@@ -8,8 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I graduated June 2022 with a degree in Data Science with a focus in Machine Learning and \
-            a Minor in Mathematics from the University of California, San Diego.\
+🎓 &nbsp;Graduated June 2022 with a B.S in Data Science with a focus in Machine Learning and a Minor in Mathematics from the University of California, San Diego.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
