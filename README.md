@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hi there! I'm Viswesh -->
 
-<img alt="Me" src="https://user-images.githubusercontent.com/50200188/186547620-a3f53ea3-02c1-41e2-bb01-86c5d7155b1a.jpg" align="right" width="200"/>
+<img alt="Me" src="https://user-images.githubusercontent.com/50200188/186579377-93ca8ef9-0133-402c-9d3a-2aa04897285c.jpg" align="right" width="200"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
