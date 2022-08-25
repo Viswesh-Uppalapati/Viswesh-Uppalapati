@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Viswesh -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -13,6 +13,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![52107207925_de1c84f61f_o](https://user-images.githubusercontent.com/50200188/186546029-e56f70c7-1455-4d14-bde3-2ab5e8cda5d5.jpg)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,4 +46,3 @@
 <p align="center">
 <a href="https://linkedin.com/in/viswesh-uppalapati/"><img src="https://img.shields.io/badge/-Viswesh%20Uppalapati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:uppalapati.viswesh368@gmail.com"><img src="https://img.shields.io/badge/-uppalapati.viswesh368@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="[https://instagram.com/viswesh.u](https://www.instagram.com/viswesh.u/)"><img src="https://img.shields.io/badge/-@viswesh.u-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
