@@ -2,6 +2,8 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Viswesh -->
 
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/50200188/186546821-f7485d81-767c-41c4-81bb-afa3ffacb6c9.jpg" align="center" width="200"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -12,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/50200188/186546821-f7485d81-767c-41c4-81bb-afa3ffacb6c9.jpg" align="center" width="250"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
