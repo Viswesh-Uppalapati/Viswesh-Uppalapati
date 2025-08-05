@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Strong passion for the role of Big Data, Data Analysis, and ML Systems in advancing access to and quality of healthcare. \
+💡 &nbsp; Strong passion for the role of Big Data, Data Analysis, and ML Systems in advancing access to healthcare. \
 🎓 &nbsp; B.S in Data Science w/ a focus in ML/AI and a Minor in Mathematics from UC, San Diego.\
 🌱 &nbsp; In my free time, I love to dance competitively and explore nature.
 
