@@ -2,8 +2,6 @@
 
 <!-- ## 👋 &nbsp;Hi there! I'm Viswesh -->
 
-<img alt="Me" src="https://user-images.githubusercontent.com/50200188/186579377-93ca8ef9-0133-402c-9d3a-2aa04897285c.jpg" align="right" width="200"/>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Strong passion for the role of Big Data, Data Analysis, and ML Systems in advancing access to healthcare. \
